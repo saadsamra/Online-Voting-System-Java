@@ -1,0 +1,8 @@
+Voter V1001 voted for Imran Khan
+Voter V1002 voted for Bilawal Bhutto
+Voter V1020 voted for Imran Khan
+Voter V121 voted for Imran Khan
+Voter V1001 voted for Nawaz Sharif
+Voter V1002 voted for Nawaz Sharif
+Voter V1020 voted for Nawaz Sharif
+Voter A123 voted for Imran Khan

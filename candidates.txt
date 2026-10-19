@@ -1,0 +1,6 @@
+1,Imran Khan,PTI,Reforms,4
+1,Imran Khan,PTI,Reforms,0
+2,Nawaz Sharif,PML-N,Development,3
+2,Nawaz Sharif,PML-N,Development,0
+3,Bilawal Bhutto,PPP,Collaboration,1
+3,Bilawal Bhutto,PPP,Collaboration,0
